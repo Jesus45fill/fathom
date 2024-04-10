@@ -1,5 +1,7 @@
 # fathom
 
+<img src="https://github.com/Jesus45fill/fathom/blob/main/ft.png"/>
+
 **Records, transcribes & summarizes your meetings for FREE**
 
 Install this Fathom for Google Meet Chrome extension to unlock:
@@ -25,3 +27,5 @@ KEY FEATURES:
 +  🙏 Easily Share Highlights
 
 +  🔍 Search Across Calls & Transcripts
+
+<img src="https://github.com/Jesus45fill/fathom/blob/main/dl.png"/>
